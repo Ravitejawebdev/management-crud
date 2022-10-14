@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 100,
+      "date": "2022-09-17T18:30:00.000Z",
+      "comment": "this is tasty ",
+      "id": 1
+    },
+    {
+      "productName": "mi",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 2500,
+      "date": "2022-09-20T18:30:00.000Z",
+      "comment": "touchpad not working",
+      "id": 2
+    },
+    {
+      "productName": "nokia",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 5000,
+      "date": "2022-09-27T18:30:00.000Z",
+      "comment": "good product",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
